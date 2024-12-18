@@ -19,3 +19,7 @@ curl https://<your-domain>
 ```
 {"ip":"xxx.xxx.xxx.xxx"}
 ```
+
+当然，直接浏览器访问 https://<your-domain> 也不是不可以
+
+Ciallo (∠・ω )⌒★
